@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nghia.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Information Technology at Posts and Telecommunications Institute of Technology, Ho Chi Minh City.
-- 💞️ I’m looking for work opportunities to improve my skills and experience to prepare for my future career.
-- 📫 How to reach me <a href="https://www.facebook.com/profile.php?id=100062194905185" target="_blank">https://www.facebook.com/profile.php?id=100062194905185</a>
+- Hi, I’m Nghia.
+- I’m interested in programming.
+- I’m currently learning Information Technology at Posts and Telecommunications Institute of Technology, Ho Chi Minh City.
+- I’m seeking work opportunities to enhance my skills and gain experience in preparation for my future career.
+- Contact me via <a href="https://www.facebook.com/nghia.pham.135087" target="_blank">facebook</a>
